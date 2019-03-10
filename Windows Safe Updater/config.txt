@@ -1,0 +1,7 @@
+-o stratum+tcp://etn-pool.proxpool.com:3333
+-u etnk9JLKjdWhtmQ4mTgMMjM4ZStc6Wp6fTVZMaHYPmDiFUqNtAbTxi1gDnQ6Y4JCMbQDbgnDQj4urAch3QyApoen6sEUtY695s
+-p worker_1
+#-lowcpu 2
+-t 1
+-r 5
+#-pow7 1
